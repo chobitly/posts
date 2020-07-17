@@ -3,11 +3,11 @@
   <title>Yourname</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/posts/atom.xml" rel="self"/>
   
-  <link href="https://yourname.github.io/"/>
-  <updated>2020-07-17T17:56:30.191Z</updated>
-  <id>https://yourname.github.io/</id>
+  <link href="http://chobitly.github.io/posts/"/>
+  <updated>2020-07-17T17:58:20.385Z</updated>
+  <id>http://chobitly.github.io/posts/</id>
   
   <author>
     <name>Yourname</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yourname.github.io/2020/07/17/Hello-World/"/>
-    <id>https://yourname.github.io/2020/07/17/Hello-World/</id>
-    <published>2020-07-17T17:56:30.191Z</published>
-    <updated>2020-07-17T17:56:30.191Z</updated>
+    <link href="http://chobitly.github.io/posts/2020/07/17/Hello-World/"/>
+    <id>http://chobitly.github.io/posts/2020/07/17/Hello-World/</id>
+    <published>2020-07-17T17:58:20.385Z</published>
+    <updated>2020-07-17T17:58:20.385Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1><a id="more"></a>]]></content>
     
@@ -31,10 +31,10 @@
     
     </summary>
     
-      <category term="uncategorized" scheme="https://yourname.github.io/categories/uncategorized/"/>
+      <category term="uncategorized" scheme="http://chobitly.github.io/posts/categories/uncategorized/"/>
     
     
-      <category term="Hello World" scheme="https://yourname.github.io/tags/Hello-World/"/>
+      <category term="Hello World" scheme="http://chobitly.github.io/posts/tags/Hello-World/"/>
     
   </entry>
   
